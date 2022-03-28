@@ -28,4 +28,9 @@
 - `git add .` : add the the local repository.
 - `git commit` : commit to the local repository adding in the local history.
 - `git push` : push the collaborate branch.
-- `git reset hard` : reset to the last commit.
+- `git reset --hard` : reset to the last commit.
+- `git log ` : show list of commits with description.
+- `git log --oneline` : show list of commits in oneline.
+- `git log ID` : resets an specific log using the ID.
+
+
