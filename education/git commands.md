@@ -23,10 +23,9 @@
 
 
 ## List of commands
-- `git clone https://github.com/user/project.git`
-- `git status`
-- `git add .`
-- `git commit`
-- `git push`
-
-
+- `git clone https://github.com/user/project.git` : clone remote repository.
+- `git status` : shows current status of the files.
+- `git add .` : add the the local repository.
+- `git commit` : commit to the local repository adding in the local history.
+- `git push` : push the collaborate branch.
+- `git reset hard` : reset to the last commit.
