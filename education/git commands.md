@@ -32,5 +32,6 @@
 - `git log ` : show list of commits with description.
 - `git log --oneline` : show list of commits in oneline.
 - `git log ID` : resets an specific log using the ID.
-
+- `git push ` : push your local comit to the remote repository
+ 
 
